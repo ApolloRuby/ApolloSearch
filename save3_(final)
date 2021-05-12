@@ -1,9 +1,0 @@
-	<html>
-<body style="background-color:#555d50;">
-<h1><p><strong>ApolloSearch</strong></p></h1>
-<form action="https://www.google.com/search" class="searchform" method="get" name="searchform" target="_blank">
-<input name="sitesearch" type="hidden" value=>
-<input autocomplete="on" class="form-control search" name="q" placeholder="Search Apollo" required="required"  type="text">
-<button class="button" type="submit">Search</button
-</form>
-	<html>
